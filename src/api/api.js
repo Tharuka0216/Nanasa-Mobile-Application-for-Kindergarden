@@ -1,0 +1,12 @@
+export const USER_REGISTER = `http://124.43.16.185:50233/api/v1/users`;
+export const USER_LOGIN = `http://124.43.16.185:50233/api/v1/login`;
+export const GET_ALL_RECORD = `http://124.43.16.185:50233/api/v1/get-records`;
+export const GAME_SAVE_API = `http://124.43.16.185:50239/api/v1/game-records`;
+export const LETTER_SAVE_API = `http://124.43.16.185:50233/api/v1/letter-records`;
+export const FACE_SAVE_API = `http://124.43.16.185:50233/api/v1/emotion-records`;
+export const AUDIO_DATA_SAVE_API = `http://124.43.16.185:50233/api/v1/audio-records`;
+export const AUDIO_SEND_API = `http://124.43.16.185:50238/api/v1/audio`;
+export const PARENT_SEARCH_CHILD_API = `http://124.43.16.185:50233/api/v1/children/`;
+export const LETTER_API = `http://124.43.16.185:50232/api/predict`;
+export const FACE_API = `http://124.43.16.185:50234/api/predict`;
+export const OBJECT_DETECTION_API = `http://124.43.16.185:50270/api/v1/validate`;
